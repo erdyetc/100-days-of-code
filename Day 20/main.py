@@ -13,7 +13,7 @@ screen.tracer(0)
 difficulty = screen.textinput("Difficulty Level", "Set the level at 'easy', 'medium', or 'hard': ")
 
 speed = 0 
-
+# hello bingbong
 if difficulty == "easy":
     speed = 0.13
 elif difficulty == "medium":
